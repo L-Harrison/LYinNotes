@@ -1,0 +1,17 @@
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\bin\Debug\netcoreapp2.2\ThreadNotes.deps.json
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\bin\Debug\netcoreapp2.2\ThreadNotes.runtimeconfig.json
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\bin\Debug\netcoreapp2.2\ThreadNotes.runtimeconfig.dev.json
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\bin\Debug\netcoreapp2.2\ThreadNotes.dll
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\bin\Debug\netcoreapp2.2\ThreadNotes.pdb
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\obj\Debug\netcoreapp2.2\ThreadNotes.csprojAssemblyReference.cache
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\obj\Debug\netcoreapp2.2\ThreadNotes.csproj.CoreCompileInputs.cache
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\obj\Debug\netcoreapp2.2\ThreadNotes.RazorAssemblyInfo.cache
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\obj\Debug\netcoreapp2.2\ThreadNotes.RazorAssemblyInfo.cs
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\obj\Debug\netcoreapp2.2\ThreadNotes.AssemblyInfoInputs.cache
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\obj\Debug\netcoreapp2.2\ThreadNotes.AssemblyInfo.cs
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\obj\Debug\netcoreapp2.2\ThreadNotes.RazorTargetAssemblyInfo.cache
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\obj\Debug\netcoreapp2.2\ThreadNotes.dll
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\obj\Debug\netcoreapp2.2\ThreadNotes.pdb
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\bin\Debug\netcoreapp2.2\ThreadSummary.dll
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\bin\Debug\netcoreapp2.2\ThreadSummary.pdb
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadNotes\obj\Debug\netcoreapp2.2\ThreadNotes.csproj.CopyComplete

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadNotes", "ThreadNotes\ThreadNotes.csproj", "{33C79857-33EB-43CE-A7D1-FE7CDF6C42A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Thread", "Thread", "{E731A560-B623-4120-B3D0-1753CCE123A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Thread.App", "Thread.App", "{F90D370D-B826-4E94-B9F3-94924478DFE1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadSummary", "ThreadSummary\ThreadSummary.csproj", "{12DA9D57-E144-40CF-A574-60C18EF6CF00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AggregateExceptionUnity", "AggregateExceptionUnity", "{B73C6E78-4991-4737-8893-477A0EDCD0A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33C79857-33EB-43CE-A7D1-FE7CDF6C42A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C79857-33EB-43CE-A7D1-FE7CDF6C42A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C79857-33EB-43CE-A7D1-FE7CDF6C42A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C79857-33EB-43CE-A7D1-FE7CDF6C42A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12DA9D57-E144-40CF-A574-60C18EF6CF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DA9D57-E144-40CF-A574-60C18EF6CF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DA9D57-E144-40CF-A574-60C18EF6CF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DA9D57-E144-40CF-A574-60C18EF6CF00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{33C79857-33EB-43CE-A7D1-FE7CDF6C42A1} = {F90D370D-B826-4E94-B9F3-94924478DFE1}
+		{12DA9D57-E144-40CF-A574-60C18EF6CF00} = {E731A560-B623-4120-B3D0-1753CCE123A5}
+		{B73C6E78-4991-4737-8893-477A0EDCD0A2} = {E731A560-B623-4120-B3D0-1753CCE123A5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1E1E521-0C2F-4D0F-BB7E-920D5F757061}
+	EndGlobalSection
+EndGlobal

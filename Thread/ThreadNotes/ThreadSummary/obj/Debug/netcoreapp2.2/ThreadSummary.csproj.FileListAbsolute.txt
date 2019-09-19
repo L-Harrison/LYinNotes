@@ -1,0 +1,9 @@
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadSummary\bin\Debug\netcoreapp2.2\ThreadSummary.deps.json
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadSummary\bin\Debug\netcoreapp2.2\ThreadSummary.dll
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadSummary\bin\Debug\netcoreapp2.2\ThreadSummary.pdb
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadSummary\obj\Debug\netcoreapp2.2\ThreadSummary.csprojAssemblyReference.cache
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadSummary\obj\Debug\netcoreapp2.2\ThreadSummary.csproj.CoreCompileInputs.cache
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadSummary\obj\Debug\netcoreapp2.2\ThreadSummary.AssemblyInfoInputs.cache
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadSummary\obj\Debug\netcoreapp2.2\ThreadSummary.AssemblyInfo.cs
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadSummary\obj\Debug\netcoreapp2.2\ThreadSummary.dll
+D:\documents\visual studio 2019\LYinNotes\Thread\ThreadNotes\ThreadSummary\obj\Debug\netcoreapp2.2\ThreadSummary.pdb
